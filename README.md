@@ -4,7 +4,7 @@
 <p>Bem vindo ao meu perfil! </br> Eu sou Alex, Desenvolvedor Unity, moro no <img src="[https://cdn-icons-png.flaticon.com/512/197/197560.png](https://icons8.com/icon/15509/brazil)" width="13"/> <b>,Sorocaba-São Paulo,Brasil</b>
 <h3>Linguagens e Ferramentas</h3>
 <p>
-  <img alt="Unity" src="(https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)" />
+  <img alt="Unity" src="[(https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)]" />
   <img alt="C#" src="(https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)" />
   <img alt="Unreal 4" src="(https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)" />
   <img alt="C" src="[(https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)]" />
