@@ -1,7 +1,7 @@
 <h1> Olá, quem bom que veio!</h1>
 
 
-<p>Bem vindo ao meu perfil! </br> Eu sou Alex, Desenvolvedor Unity, moro no <img src="[https://cdn-icons-png.flaticon.com/512/197/197560.png](https://icons8.com/icon/15509/brazil)" width="13"/> <b>,Sorocaba-São Paulo,Brasil</b>
+<p>Bem vindo ao meu perfil! </br> Eu sou Alex, Desenvolvedor Unity, atualmente moro em <b>,Sorocaba-São Paulo,Brasil</b>
 <h3>Linguagens e Ferramentas</h3>
 <p>
   <img alt="Unity" <img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" />
@@ -19,6 +19,6 @@
   <img alt="React" <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
 </p>
 <h3>Quer saber mais?</h3>
-<p><a href="https://github.com/Aleexmarcelo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/alex-marcelo-b22a93210/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="alexmarcelo.com.br" target="_blank"><img alt="WebSite" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<p><a href="https://github.com/Aleexmarcelo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/alex-marcelo-b22a93210/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="alexmarcelo.com.br" target="_blank"><img alt="WebSite" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
