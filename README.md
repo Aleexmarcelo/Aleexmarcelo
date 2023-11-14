@@ -3,7 +3,7 @@
 
 <p>Bem vindo ao meu perfil! </br> Eu sou Alex, Desenvolvedor Unity, atualmente moro em <b>,Sorocaba-São Paulo,Brasil</b>
 
-```c#
+```javascript
 const alex = {
   pronouns: "ele" | "dele",
   code: [C#, HTML, CSS, Java, Blueprints],
