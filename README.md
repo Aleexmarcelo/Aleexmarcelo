@@ -1,7 +1,7 @@
 <h1> Olá, quem bom que veio!</h1>
 
 
-<p>Bem vindo ao meu perfil! </br> Eu sou Alex, Desenvolvedor Unity, atualmente moro em <b>,Sorocaba-São Paulo,Brasil</b>
+<p>Bem vindo ao meu perfil! </br> Eu sou Alex, Desenvolvedor Unity, atualmente moro em <b>Sorocaba-São Paulo,Brasil</b>
 
 ```javascript
 const alex = {
