@@ -3,9 +3,15 @@
 
 <p>Bem vindo ao meu perfil! </br> Eu sou Alex, Desenvolvedor Unity, atualmente moro em <b>,Sorocaba-São Paulo,Brasil</b>
 
-'''c#
-teste
-'''
+```c#
+const alex = {
+  pronouns: "ele" | "dele",
+  code: [C#, HTML, CSS, Java, Blueprints],
+  tools: [Unity, JetBrains Rider, SourceTree, Visual Studio, Visual Studio Code,],
+  architecture: ["3D", "2D", "VR"],
+ challenge: "Conseguir um emprego que me traga experiência curricular"
+}
+```
 
 
 
